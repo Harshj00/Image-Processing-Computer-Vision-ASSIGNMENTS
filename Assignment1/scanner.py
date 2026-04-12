@@ -1,7 +1,6 @@
 
 # Name         : Harsh Kumar Jha
-# Course       : Image Processing & Computer Vision
-# Assignment   : Smart Document Scanner & Quality Analysis System
+# Assignment1   : Smart Document Scanner & Quality Analysis System
 
 
 """
