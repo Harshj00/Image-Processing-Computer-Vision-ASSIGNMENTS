@@ -1,10 +1,7 @@
 # ============================================================
-# Name         : Harsh
+# Name         : Harsh Kumar Jha
 # Course       : Image Processing & Computer Vision
-# Unit         : Unit 4 — Object Representation & Feature Extraction
-# Assignment   : Feature-Based Traffic Monitoring System
-# Date         : 2026
-# ============================================================
+# Assignment4   : Feature-Based Traffic Monitoring System
 
 """
 Feature-Based Traffic Monitoring System
