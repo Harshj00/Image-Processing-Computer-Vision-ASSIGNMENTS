@@ -1,10 +1,7 @@
 # ============================================================
-# Name         : Harsh
+# Name         : Harsh Kumar Jha
 # Course       : Image Processing & Computer Vision
-# Assignment   : Intelligent Image Enhancement & Analysis System
-#                (Capstone — Units 1–4)
-# Date         : 2026
-# ============================================================
+# Assignment5   : Intelligent Image Enhancement & Analysis System
 
 """
 Intelligent Image Enhancement & Analysis System
